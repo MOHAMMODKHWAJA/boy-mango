@@ -1,1 +1,2 @@
-# boy-mango
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
